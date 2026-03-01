@@ -1,6 +1,6 @@
-# 📱🖥️ GUICourse: From General Vision Langauge Models to Versatile GUI Agents 
+# 📱🖥️ GUICourse: From General Vision Language Models to Versatile GUI Agents 
 
-Datasets, codes, and models for the paper "[GUICourse: From General Vision Langauge Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317)".
+Datasets, codes, and models for the paper "[GUICourse: From General Vision Language Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317)".
 
 Release process:
 - [ ] Datasets
